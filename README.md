@@ -20,6 +20,7 @@ Available commands to run with `npm run`:
  - `build:prod`: build the prod package in dist folder
 
  Example command :npm run build
+ Open your browser and navigate to http://localhost:8080/
 
  
 
