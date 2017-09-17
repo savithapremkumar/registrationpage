@@ -25,7 +25,7 @@ Available commands to run with `npm run`:
  
 
  ## List of nice to add features:
- - Changing backround coloour of submit once fields are validated
+ - Changing backround colour of submit once fields are validated
  - Gracefully handling post errors
  
  ## Known bugs
