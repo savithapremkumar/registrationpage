@@ -1,15 +1,15 @@
 # Vesta Central Assignment - Registration Page 
 
--Responsive page
--Uses ES6 , SASS and Babel with Webpack2
+- Responsive page
+- Uses ES6 , SASS and Babel with Webpack2
 
 
 
 ## Setup
 
-Download and unzip folder to 'vesta-assignment' 
-cd vesta-assignment
-npm install
+- Download and unzip folder to 'vesta-assignment' 
+- cd vesta-assignment
+- npm install
 
 ## Available commands
 
